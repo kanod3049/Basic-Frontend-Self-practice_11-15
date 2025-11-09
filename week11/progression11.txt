@@ -1,0 +1,5 @@
+หยิบจากงานที่ผ่านมาพัฒนาต่อ
+รู้จักการใช้ Event หลายรูปแบบ เช่น click, submit, input
+การอัปเดต DOM แบบ real time โดยไม่ต้องรีเฟรช
+การใช้ Event Delegation เพื่อลดจำนวน listener
+การเชื่อมต่อ DOM กับ localStorage อย่างต่อเนื่อง
